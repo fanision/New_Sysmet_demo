@@ -13,4 +13,4 @@ This folder consists of four demo datasets that can be used to test SysMet as ou
 3. Multiomic_Metabo.csv and Multiomic_Proteo consist of the measurement of 66 metabolites and 100 proteins measured in plasma samples from 89 subjects (49 cancer cases and 40 controls). These datasets can be used to test the Multi-omic Data Integration Tool, which combines a metabolomic dataset with another omic datasets (e.g., proteomic dataset, transcriptomic dataset, etc.) to identify metabolites that distinguish two groups of samples by mapping biomolecules (e.g., proteins, genes, etc.) onto a network previously built using metabolomic data. 
 
 
-For more details, please go to: http://omicscraft.com/SysMet/tutorial
+For more details, please go to:  http://omicscraft.com/SysMet/tutorial
